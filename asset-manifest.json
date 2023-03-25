@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PeopleWeave-website/static/css/main.096ccd70.css",
+    "main.js": "/PeopleWeave-website/static/js/main.6b4aa0a8.js",
+    "static/js/787.c417d0dc.chunk.js": "/PeopleWeave-website/static/js/787.c417d0dc.chunk.js",
+    "static/media/logo-s.png": "/PeopleWeave-website/static/media/logo-s.9e1cc09a6021d96dbef0.png",
+    "static/media/helvetica-neu.ttf": "/PeopleWeave-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/PeopleWeave-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/PeopleWeave-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/PeopleWeave-website/index.html",
+    "main.096ccd70.css.map": "/PeopleWeave-website/static/css/main.096ccd70.css.map",
+    "main.6b4aa0a8.js.map": "/PeopleWeave-website/static/js/main.6b4aa0a8.js.map",
+    "787.c417d0dc.chunk.js.map": "/PeopleWeave-website/static/js/787.c417d0dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096ccd70.css",
+    "static/js/main.6b4aa0a8.js"
+  ]
+}
