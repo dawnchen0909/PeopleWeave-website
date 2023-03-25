@@ -1,8 +1,8 @@
 {
+  "homepage": "https://dawnchen0909.github.io",
   "name": "people-weave-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dawnchen0909.github.io/my-app",
   "dependencies": {
     "@chakra-ui/react": "^2.5.3",
     "@emailjs/browser": "^3.10.0",
@@ -31,7 +31,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
