@@ -1,5 +1,4 @@
 {
-  "homepage": "https://dawnchen0909.github.io",
   "name": "people-weave-website",
   "version": "0.1.0",
   "private": true,
@@ -10,13 +9,12 @@
     "@emotion/styled": "^11.10.6",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
-    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fortawesome/react-fontawesome": "github:fortawesome/react-fontawesome",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
     "framer-motion": "^10.9.1",
-    "gh-pages": "^5.0.0",
     "gsap-trial": "^3.11.5",
     "loaders.css": "^0.1.2",
     "react": "^18.2.0",
@@ -30,8 +28,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -54,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
